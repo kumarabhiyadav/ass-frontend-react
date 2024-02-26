@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+  }
+  
+  .container > div { /* Target direct children of the container */
+    flex: 1; /* Make children flexible and evenly distribute space */
+    margin: 0 10px; /* Optional: Add spacing between children */
+  }

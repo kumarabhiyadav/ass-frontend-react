@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    margin-top: 1rem;
+    width: 100vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+    div{
+         padding: .2rem;
+
+    }
+  }
