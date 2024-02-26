@@ -1,4 +1,4 @@
-export const domain = "http://13.234.20.32:9001/api";
+export const domain = "http://13.60.46.80:9001/api";
 
 export const endPoints = {
   createEmiRange: "/emi/createEmiRange",
